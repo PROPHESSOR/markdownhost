@@ -10,9 +10,9 @@
     - [Виды тестов](#)
     - [Когда Романишин запускает сервер](#whereserveronline)
   - [Практические работы](#osprworks) *не написано*
-    - [Задания](#osprex) *не написано*
+    - [Задания](#osprex)
     - [Видео](#osprvideo) *не написано*
-    - [Образы](#osprimages) *не написано*
+    - [Образы](#osprimages)
 <a name="generallinks"></a>
 
 ## Общие ссылки Романишина
@@ -35,6 +35,8 @@
 <a name="oslectory"></a>
 
 ### Лекции
+
+[Ссылка на папку с лекциями на Mega](https://mega.nz/#F!JWAnwTzQ!Kax6ZvarYHm2EsO0kaN2dA!ADIjyAhK)
 
 *Этот раздел не написан*
 
@@ -69,3 +71,39 @@
 ### Практические работы
 
 *Этот раздел не написан*
+
+<a name="osprex"></a>
+
+#### Задания
+
+[Папка на Mega с заданиями](https://mega.nz/#F!JWAnwTzQ!Kax6ZvarYHm2EsO0kaN2dA!5HxhgAIa)
+
+*Этот раздел не написан*
+
+<a name="osprvideo"></a>
+
+#### Видео
+
+*Этот раздел не написан*
+
+<a name="osprimages"></a>
+
+#### Образы систем
+
+[Ссылка на папку с образами на Mega](https://mega.nz/#F!JWAnwTzQ!Kax6ZvarYHm2EsO0kaN2dA!4PpVABoJ)
+
+- VMWare (.vmdk)
+  - Windows
+    - [Windows XP Professional (`XP AE.rar`)](https://mega.nz/#F!JWAnwTzQ!Kax6ZvarYHm2EsO0kaN2dA?QH5QCIgC) [190.7 Мб]
+    - [Windows 7 Professional (`W7prof(winRAR5).rar`)](https://mega.nz/#F!JWAnwTzQ!Kax6ZvarYHm2EsO0kaN2dA?UbwC1AxS) [900.3 Мб] *Не проверено*
+    - [Windows 7 x86 (`Win 7x86.rar`)](https://mega.nz/#F!JWAnwTzQ!Kax6ZvarYHm2EsO0kaN2dA?FWpQEQIL) [927.9 Мб] *Не проверено*
+  - Linux
+    - Linux Mint 9 (`Linux Mint.7z`) *На Mega не найден. Лежит в привате в Telegram*
+    - [`AltLinuxServer.rar`](https://mega.nz/#F!JWAnwTzQ!Kax6ZvarYHm2EsO0kaN2dA?kWJyTALQ) [1.21 Гб] *Не проверено*
+- ISO
+  - Windows
+    - [Windows XP SP3 (`WinXPsp3VL.ISO`)](https://mega.nz/#F!JWAnwTzQ!Kax6ZvarYHm2EsO0kaN2dA?wbR03QiR) [662.2 Мб] *Не проверено*
+    - [`WinAE_119.iso`](https://mega.nz/#F!JWAnwTzQ!Kax6ZvarYHm2EsO0kaN2dA?oGBkCAgS) [162.2 Мб] *Не проверено*
+    - [Windows 7 Ultimate x86 (`UL7-x86-CD.iso`)](https://mega.nz/#F!JWAnwTzQ!Kax6ZvarYHm2EsO0kaN2dA?FG5VFaxb) [701 Мб] *Не проверено*
+  - Linux
+    - [Linux Mint 9 LXDE x86 (`linuxmint-9-lxde-cd-i386.iso`)](https://mega.nz/#F!JWAnwTzQ!Kax6ZvarYHm2EsO0kaN2dA?Nf5CjaRI) [595.2 Мб] *Не проверено*
