@@ -87,7 +87,7 @@
 - [Шрифт Gost Type A](https://mega.nz/#F!JWAnwTzQ!Kax6ZvarYHm2EsO0kaN2dA?xOxHWLST)
 - [Шрифт Gost Type B (Жирный)](https://mega.nz/#F!JWAnwTzQ!Kax6ZvarYHm2EsO0kaN2dA?5bIGXK5Z)
 - [Рамки](https://mega.nz/#F!JWAnwTzQ!Kax6ZvarYHm2EsO0kaN2dA?UGAwWIhC)
-
+- [FTP Сервер (192.168.4.250)](ftp://192.168.4.250) (Работает только в шараге)
 
 <a name="osprex"></a>
 
@@ -101,7 +101,8 @@
 
 #### Видео
 
-[Какая-то папка Video на Mega](https://mega.nz/#F!JWAnwTzQ!Kax6ZvarYHm2EsO0kaN2dA!Fa5hVL5I)
+- [Какая-то папка Video на Mega](https://mega.nz/#F!JWAnwTzQ!Kax6ZvarYHm2EsO0kaN2dA!Fa5hVL5I)
+- [Видео-сервер](http://192.168.4.250:45397) (Работает только в шараге)
 
 *Этот раздел не написан*
 
